@@ -1,11 +1,19 @@
 # Site settings
-title:       Pixyllated
-email:       jdwallace12@example.com
-author:      John Wallace
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixyllated"
-url:         "jdwallace12.github.io/pixyllated/"
+title: tudor saitoc
+email: tudor@saitoc.me
+description: "description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+username: tudr
+baseurl: "/ideas"
+url: "http://tudr.github.io/ideas"
+paginate: 10
+paginate_path: "/halaman/:num/"
 date_format: "%b %-d, %Y"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems: [jekyll-paginate]
+highlighter: pygments
 
 # Google services
 google_analytics:
@@ -21,23 +29,23 @@ enable_mathjax: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: pixyll
+disqus_shortname: tudr
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
 facebook_appid:
-facebook_comments_number: 10
+facebook_comments_number: 
 
 # Social icons
-github_username:
+github_username: tudr
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-skype_username:
+twitter_username: tudorsnyc
+skype_username: tsaitoc
 steam_nickname:
-google_plus_id:
-linkedin_username:
+google_plus_id: tudor@saitoc.me
+linkedin_username: tudorsnyc
 angellist_username:
 medium_id:
 bitcoin_url:
