@@ -13,7 +13,7 @@ date_format: "%b %-d, %Y"
 markdown: kramdown
 permalink: pretty
 gems: [jekyll-paginate]
-highlighter: pygments
+highlighter: rouge 
 
 # Google services
 google_analytics:
@@ -87,9 +87,9 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
+    email:    'tudor@saitoc.me'
+    content:  'just wanted to say bah!'
+    subject:  'hi :)'
     submit:   'Say Hello'
     ajax:
       sending:  'sending..'
