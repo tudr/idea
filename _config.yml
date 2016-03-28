@@ -3,8 +3,8 @@ title: "hot ideas coming right up"
 email: tudor@saitoc.me
 description: "ready or  not, here i come!" 
 username: tudr
-baseurl: "/ideas"
-url: "http://tudr.github.io/ideas"
+baseurl: ""
+url: "https://idea.tudr.co"
 paginate: 10
 paginate_path: "/halaman/:num/"
 date_format: "%b %-d, %Y"
@@ -16,8 +16,8 @@ gems: [jekyll-paginate]
 highlighter: rouge 
 
 # Google services
-google_analytics:
-google_verification:
+#google_analytics:
+#google_verification:
 
 # Optional features
 animated:             false
